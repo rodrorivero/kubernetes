@@ -1,25 +1,3 @@
----
-title: kubectl Cheat Sheet
-reviewers:
-- erictune
-- krousey
-- clove
-content_type: concept
-weight: 10 # highlight it
-card:
-  name: reference
-  weight: 30
----
-
-<!-- overview -->
-
-This page contains a list of commonly used `kubectl` commands and flags.
-
-{{< note >}}
-These instructions are for Kubernetes v{{< skew currentVersion >}}. To check the version, use the `kubectl version` command.
-{{< /note >}}
-<!-- body -->
-
 ## Kubectl autocomplete
 
 ### BASH
