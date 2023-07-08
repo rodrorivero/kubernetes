@@ -1,3 +1,4 @@
+#!/bin/bash
 # Preparing the cluster
 # Deploy EC2 instance
     ssh-keygen -f keyname
