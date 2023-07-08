@@ -1,3 +1,4 @@
+#!/bin/bash
 # Niginx pod deployment
 # Creating nginx pod
 kubectl run nginx --image nginx
